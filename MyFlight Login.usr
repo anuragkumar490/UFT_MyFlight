@@ -15,6 +15,7 @@ Action0=Action0\Script.mts
 Action1_Login=Action1\Script.mts
 Action2_Search_Flight=Action2\Script.mts
 Action3_Search_Order=Action3\Script.mts
+Action4_UpdateOrder=Action4\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -37,15 +38,19 @@ ProductName=HPE Unified Functional Testing
 Version=14.0
 
 [TulipAddins]
+ActiveX=
 Database=
 File Content=
+Flex=
 Insight=
 Java=
 Mobile=
 Windows Applications=
 TEA=
+Terminal Emulators=
 Visual Basic=
 Web=
+.NET=
 WPF=
 XML=
 
@@ -65,3 +70,6 @@ Action2\ObjectRepository.bdb=
 Action3\Script.mts=
 Action3\Resource.mtr=
 Action3\ObjectRepository.bdb=
+Action4\Script.mts=
+Action4\Resource.mtr=
+Action4\ObjectRepository.bdb=
